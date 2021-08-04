@@ -1,7 +1,7 @@
 # Pull request downloader
 
 ## About
-Downloads all pull requests from repository.
+Downloads all pull requests from given repository as html files.
 
 ## Execution
 Replace URL (variable `start_urls`) in `get_pull_req.py` file and then:
