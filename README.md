@@ -1,8 +1,10 @@
+# Pull request downloader
+
 ## About
-Gets all pull requests from repository.
+Downloads all pull requests from repository.
 
 ## Execution
-Replace URL in py file and then:
+Replace URL (variable `start_urls`) in `get_pull_req.py` file and then:
 
 ```
 conda create -n powp python=3
